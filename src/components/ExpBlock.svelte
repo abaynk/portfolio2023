@@ -87,4 +87,12 @@
       pointer-events: none;
     }
   }
+  @media (max-width: 480px) {
+    .root {
+      flex-direction: column;
+    }
+    .root-content {
+      max-width: 100%;
+    }
+  }
 </style>

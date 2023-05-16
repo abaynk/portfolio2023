@@ -75,4 +75,13 @@
       padding-left: 0px;
     }
   }
+  @media (max-width: 480px) {
+    .content {
+      row-gap: 1rem;
+    }
+    .credits {
+      padding: 0;
+      padding-bottom: 1rem;
+    }
+  }
 </style>
