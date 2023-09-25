@@ -5,10 +5,30 @@
 <h4 class="heading">EXPERIENCE</h4>
 <div class="scroll-container">
   <ExpBlock
+    link="https://beyim.nis.edu.kz/en"
+    period="Jul 2023 - present"
+    company="NIS center of IT and Services"
+    position="Frontend Developer"
+    location="Astana, Kazakhstan"
+    description="develop a dynamic active learning platform (LMS) client app for 3000+ daily users, optimizing data retrieval with Fetch and WebSockets, and modernized legacy code with cross-functional collaboration."
+    skills={[
+      'TypeScript',
+      'React',
+      'Next.js',
+      "Redux",
+      "Redux Toolkit",
+      'SCSS',
+      'JavaScript',
+      'Git',
+      'Formik',
+      "i18n"
+    ]}
+  />
+  <ExpBlock
     link="https://www.linkedin.com/company/adastra.one/"
-    period="Jan 2022 - present"
+    period="Jan 2022 - Apr 2023"
     company="ADASTRA·ONE"
-    position="JavaScript developer"
+    position="JavaScript Frontend Developer"
     location="remote"
     description="significantly improved usability, reduced data loading time, enhanced the debugging process, and increased efficiency, resulting in a better performance and user experience for the browser-extension."
     skills={[
@@ -18,7 +38,7 @@
       'HTML5',
       'JavaScript',
       'Git',
-      ' npm',
+      'npm',
     ]}
   />
   <ExpBlock
